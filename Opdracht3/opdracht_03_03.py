@@ -3,9 +3,10 @@ print("Hi!")
 name = input("What's your name? ")
 
 print("It's nice to meet you,", name)
-answer = input("Are you enjoying the course? ")
+answer = input("what's my favorite food? ")
 
-if answer == "Yes":
-    print("That's good to hear!")
+if answer == "pizza":
+    print("yes thats amazing!")
 else:
-    print("Oh no! That makes me sad!")
+    print("Oh no!")
+
